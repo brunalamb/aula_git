@@ -1,0 +1,33 @@
+{
+  "name": "aula_git",
+  "version": "1.0.0",
+  "description": "aula de git combinada com javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunalamb/aula_git.git"
+  },
+  "keywords": [
+    "git",
+    "javascript",
+    "aula",
+    "joão",
+    "eurico",
+    "sábado",
+    "treinamento",
+    "exercício"
+  ],
+  "author": "Bruna Lamb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunalamb/aula_git/issues"
+  },
+  "homepage": "https://github.com/brunalamb/aula_git#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "lodash": "^4.17.21"
+  }
+}
